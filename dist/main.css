@@ -1,0 +1,8 @@
+body {
+  color: #555;
+  background-image: url("/img/circle-background.svg");
+  background-size: cover;
+  background-position: center center; }
+  body .container {
+    height: 90vh;
+    width: 100wh; }
